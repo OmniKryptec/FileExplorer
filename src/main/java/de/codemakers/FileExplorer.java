@@ -17,4 +17,9 @@
 package de.codemakers;
 
 public class FileExplorer {
+    
+    public static final void main(String[] args) {
+        System.out.println(FileExplorer.class.getName());
+    }
+    
 }
